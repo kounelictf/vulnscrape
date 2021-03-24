@@ -3,7 +3,9 @@
 
 # Vulnscrape
 ![](https://img.shields.io/github/license/kounelictf/vulnscrape)
+
 ![](https://img.shields.io/github/stars/kounelictf/vulnscrape)
+
 ![](https://img.shields.io/github/forks/kounelictf/vulnscrape)
 
 Easy way to find vulnerable data you're looking for, using databases and APIs!
